@@ -1,0 +1,28 @@
+{
+  "name": "Toofix",
+  "description": "Librairies utilisées",
+  "main": "",
+  "authors": [
+    "Felix WATTEZ <felix@toofix.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "font-awesome": "^4.6.1",
+    "bootstrap": "~3.3.5",
+    "angular": "^1.5.5",
+    "ngstorage": "~0.3.10",
+    "angular-ui-router": "~0.2.18",
+    "angular-bootstrap": "^1.3.2",
+    "ng-file-upload": "~12.0.4",
+    "angular-translate": "^2.11.0",
+    "angular-translate-loader-static-files": "^2.11.0",
+    "angular-animate": "^1.5.5"
+  },
+  "resolutions": {
+    "angular-bootstrap": "^1.3.2",
+    "angular": "1.5.5"
+  }
+}
