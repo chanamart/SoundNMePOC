@@ -53,13 +53,3 @@ cd public/views/
 nano constant.js
 
 ```
-
-Modifier la constante **apiUrl** si necessaire
-
-
-```
-#!javascript
-
-app.constant('apiUrl', 'https://toofix.com/api');
-
-```
