@@ -11,5 +11,5 @@ angular.module('states', []).config(function($stateProvider, $urlRouterProvider,
 	    templateUrl: "/views/home/home.html"
 	});
 
-    $urlRouterProvider.otherwise('/error');
+    $urlRouterProvider.otherwise('/home');
 }); 

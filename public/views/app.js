@@ -5,6 +5,8 @@ var app = angular.module('SoundNMe', [
     'states',
     'ngStorage',
     'constants',
+    'HomeController',
+    'HomeDirective',
 ]).run(run);
 
 
